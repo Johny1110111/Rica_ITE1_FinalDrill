@@ -1,0 +1,14 @@
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\bin\Debug\net8.0\Rica_ITE1_FinalDrill.exe
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\bin\Debug\net8.0\Rica_ITE1_FinalDrill.deps.json
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\bin\Debug\net8.0\Rica_ITE1_FinalDrill.runtimeconfig.json
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\bin\Debug\net8.0\Rica_ITE1_FinalDrill.dll
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\bin\Debug\net8.0\Rica_ITE1_FinalDrill.pdb
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.AssemblyInfoInputs.cache
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.AssemblyInfo.cs
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.csproj.CoreCompileInputs.cache
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.dll
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\refint\Rica_ITE1_FinalDrill.dll
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.pdb
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\Rica_ITE1_FinalDrill.genruntimeconfig.cache
+C:\Users\Keiiteu\Desktop\Rica_ITE1_FinalDrill\Rica_ITE1_FinalDrill\obj\Debug\net8.0\ref\Rica_ITE1_FinalDrill.dll
