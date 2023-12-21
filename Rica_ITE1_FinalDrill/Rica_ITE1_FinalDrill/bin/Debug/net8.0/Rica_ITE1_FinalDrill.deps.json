@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rica_ITE1_FinalDrill/1.0.0": {
+        "runtime": {
+          "Rica_ITE1_FinalDrill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rica_ITE1_FinalDrill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
